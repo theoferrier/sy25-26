@@ -1,0 +1,181 @@
+event: 100m boys
+name: Logan Storjohann
+grade: 12
+result: 10.83
+
+event: 100m girls
+name: Eboni Bouie
+grade: 12
+result: 12.32
+
+event: 200m boys
+name: Logan Storjohann
+grade: 12
+result: 21.92
+
+event: 200m girls
+name: Eboni Bouie
+grade: 12
+result: 25.63
+
+
+event: 400m boys
+name: Ben Heiner
+grade: 12
+result: 49.41
+
+event: 400m girls
+name: Makenna Topp
+grade: 12
+result: 58.32
+
+event: 800m boys
+name: Alex Nova
+grade: 12
+result: 1:54.50
+
+event: 800m girls
+name: Makenna Topp
+grade: 12
+result: 2:14.70
+
+event: 1600m boys
+name: Jacob Lewis
+grade: 12
+result: 4:11.48
+
+event: 1600m girls
+name: Alyssa Lozano
+grade: 10
+result: 5:09.70
+
+event: 3200m boys
+name: Jacob Lewis
+grade: 12
+result: 9:23.64
+
+event: 3200m girls
+name: Averi Shuey
+grade: 12
+result: 11:38.45
+
+event: 110mH boys
+name: Darien McKinley
+grade: 11
+result: 14.93
+
+event: 100mH girls
+name: Ariel Gregoire
+grade: 11
+result: 16.16
+
+event: 300mH boys
+name: Darien McKinley
+grade: 11
+result: 39.97
+
+
+event: 300mH girls
+name: Ariel Gregiore
+grade: 11
+result: 47.52
+
+event: 4x100m boys
+name: Ben Heiner, Frank Stubbs, Logan Storjohann, William Kocher
+grade: N/A
+result: 42.18
+
+event: 4x100m girls
+name: Eboni Bouie, Kendall Conner, Mariah, Mya Emery
+grade: N/A
+result: 50.80
+
+event: 4x400m boys
+name: Alex Nova, Mason Schirm, Nicholas Angieri, Ryan Parenteau
+grade: N/A
+result: 3:26.09
+
+event: 4x400m girls
+name: Makenna Topp, Sage Sollars, Ryah Zakula, Kate McKenzie
+grade: N/A
+result: 3:57.80
+
+event: 4x800m boys
+name: Mason Schirm, Robert Gladding, Matt Kautzman, Alex Nova
+grade: N/A
+result: 8:02.13
+
+event: 4x800m girls
+name: Adi Stroot, Averi Shuey, Ryah Zakula, Sage Sollars
+grade: N/A
+result: 9:49.86
+
+event: high jump boys
+name: Dylan Walashek
+grade: 12
+result: 6'8"
+
+event: high jump girls
+name:
+grade:
+distance:
+
+event: long jump boys
+name: Jacob Myles
+grade: 12
+result: 22'7"
+
+event: long jump girls
+name:
+grade:
+distance:
+
+event: triple jump boys
+name: Jacob Myles
+grade: 10
+result: 45'7.5"
+
+event: triple jump girls
+name:
+grade:
+distance:
+
+event: pole vault boys
+name: Joe Baxter
+grade: 12
+result: 14'6"
+
+event: pole vault girls
+name:
+grade:
+distance:
+
+event: shot put boys
+name: Roger Dolan
+grade: 12
+result: 55' 7.5"
+
+event: shot put girls
+name:  Bethany Robinson
+grade: 12
+result: 35'10"
+
+event: discus boys
+name: Roger Dolan
+grade: 12
+result: 169' 1"
+
+event: discus girls
+name:
+grade:
+distance:
+
+event: javelin boys
+name: Wyatt Wilson
+grade: 12
+result: 150' 1"
+
+event: javelin girls
+name:
+grade:
+distance:
